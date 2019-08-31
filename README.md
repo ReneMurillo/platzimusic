@@ -1,6 +1,6 @@
 # platzimusic
 
-> Projece.js Platzit of the course Introduction to Vue.js 
+> Project created as result of Platzi's course Introduction to Vue.js 
 
 ## Build Setup
 
